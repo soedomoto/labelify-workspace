@@ -1,0 +1,7 @@
+packages:
+  - web
+  - annotate
+  - tags
+
+onlyBuiltDependencies:
+  - esbuild

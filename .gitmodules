@@ -1,0 +1,9 @@
+[submodule "annotate"]
+	path = annotate
+	url = ./annotate
+[submodule "tags"]
+	path = tags
+	url = ./tags
+[submodule "web"]
+	path = web
+	url = ./web
