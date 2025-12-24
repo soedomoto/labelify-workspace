@@ -1,9 +1,9 @@
 [submodule "annotate"]
 	path = annotate
-	url = ./annotate
+	url = https://github.com/soedomoto/labelify-annotate
 [submodule "tags"]
 	path = tags
-	url = ./tags
+	url = https://github.com/soedomoto/labelify-tags
 [submodule "web"]
 	path = web
-	url = ./web
+	url = https://github.com/soedomoto/labelify-web
